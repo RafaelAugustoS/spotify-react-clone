@@ -1,0 +1,109 @@
+{
+	"home": [
+		{
+			"title": "Shortcuts",
+			"items": [
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				}
+			]
+		},
+		{
+			"title": "Recently played",
+			"items": [
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				},
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				}
+			]
+		},
+		{
+			"title": "Chill",
+			"items": [
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				}
+			]
+		},
+		{
+			"title": "Your favorites albums and songs",
+			"items": [
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				},
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				},
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				}
+			]
+		},
+		{
+			"title": "Made for Rafael",
+			"items": [
+				{
+					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
+					"title": "Sala La Murte de Tu Vida",
+					"desc": "Esteban Tavares"
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				},
+				{
+					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
+					"title": "Lucas Silveira",
+					"desc": ""
+				}
+			]
+		}
+	]
+}
