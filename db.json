@@ -12,6 +12,16 @@
 					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
 					"title": "Lucas Silveira",
 					"desc": ""
+				},
+				{
+					"img": "https://cdn.awsli.com.br/1369/1369057/produto/55328686/cd-fresno-infinito-097fae26.jpg",
+					"title": "Infinito",
+					"desc": "Fresno"
+				},
+				{
+					"img": "https://i.scdn.co/image/f55cab0739390cf3b2c2f773b9c779b2f0ae8a99",
+					"title": "Ed Sheeran",
+					"desc": ""
 				}
 			]
 		},
@@ -19,14 +29,14 @@
 			"title": "Recently played",
 			"items": [
 				{
-					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
-					"title": "Sala La Murte de Tu Vida",
-					"desc": "Esteban Tavares"
+					"img": "https://miro.medium.com/max/1193/1*fD4iwL3x8y_AHr5Lvb6m0A.png",
+					"title": "The Last of Us",
+					"desc": "Gustavo Santaolalla"
 				},
 				{
-					"img": "https://oportuno.com.br/wp-content/uploads/2019/07/Fresno-600x400.jpg",
-					"title": "Lucas Silveira",
-					"desc": ""
+					"img": "https://images-na.ssl-images-amazon.com/images/I/711Qha%2Bw8GL._AC_SX466_.jpg",
+					"title": "x (Deluxe Edition)",
+					"desc": "Ed Sheeran"
 				},
 				{
 					"img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/593c2129361629.55ef702466a9e.jpg",
